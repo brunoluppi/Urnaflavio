@@ -198,7 +198,7 @@ while SMESARIO!=sm:
     print("senha incorreta")
     sm=input("digite a senha novamente: ")
 else:
-    print("-----------------------------------------------------")
+    print("                                       ")
     print("bem-vindo senhor mesario")
     print("-----------------------------------------------------")
     input("para iniciar votaçao tecle enter")
